@@ -1,0 +1,2 @@
+# Budget
+ Gérez vos finances de manière simple et efficace avec notre application de gestion de budget basée sur ElectronJS. Suivez vos dépenses, élaborez des budgets personnalisés, et visualisez vos transactions en un coup d'œil. L'interface intuitive et les fonctionnalités avancées font de la gestion financière une expérience fluide. Prenez le contrôle de votre argent avec notre application, conçue pour simplifier votre vie financière.
