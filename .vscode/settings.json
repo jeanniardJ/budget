@@ -1,0 +1,6 @@
+{
+    "github.copilot.enable": {
+        "yaml": "true"
+    },
+    "github.copilot.chat.localeOverride": "fr"
+}
